@@ -69,3 +69,7 @@ Everything ran on Alpine 3.21 under proot on one Android 15 phone, with Node 22 
 - **One tab.** Links that open a new tab are not followed.
 - **Missing glyphs.** Characters with no installed fallback font show as boxes. Add fonts with `apk add font-noto` if that matters.
 - **Memory.** A heavy WebGL page used about 1.3 GB on the test phone. Run `glance stop` when you finish.
+
+## Licence
+
+Apache-2.0; see [LICENSE](LICENSE) and [NOTICE](NOTICE).
