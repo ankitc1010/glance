@@ -1,0 +1,10 @@
+{
+  "name": "glance",
+  "version": "0.1.0",
+  "description": "A headless browser you and an agent can both see from a terminal",
+  "type": "module",
+  "private": true,
+  "bin": { "glance": "bin/glance.mjs" },
+  "engines": { "node": ">=22" },
+  "scripts": { "test": "node --test \"test/*.test.mjs\"" }
+}
