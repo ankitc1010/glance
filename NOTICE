@@ -1,0 +1,6 @@
+glance
+Copyright 2026 Ankit Chauhan
+
+This product contains no third-party code and has no npm dependencies. It
+runs Chromium and Mesa, which are installed separately and are not part of
+this repository.

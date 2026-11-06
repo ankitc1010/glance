@@ -1,5 +1,6 @@
 {
   "name": "glance-preview",
   "version": "0.1.0",
-  "description": "Shows the glance browser's current page in a pane inside Claude Code"
+  "description": "Shows the glance browser's current page in a pane inside Claude Code",
+  "license": "Apache-2.0"
 }

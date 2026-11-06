@@ -2,6 +2,7 @@
   "name": "glance",
   "version": "0.1.0",
   "description": "A headless browser you and an agent can both see from a terminal",
+  "license": "Apache-2.0",
   "type": "module",
   "private": true,
   "bin": { "glance": "bin/glance.mjs" },
